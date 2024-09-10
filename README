@@ -1,5 +1,4 @@
-#Grupo 1: Creación de una Página Web:
+#Grupo 1: Crear una página web representativa del grupo utilizando HTML y CSS.
 
-Objetivo: Crear una página web representativa del grupo utilizando HTML y CSS.
 Descripción: El grupo debe diseñar una página web que incluya información sobre cada miembro, su rol en el equipo y un resumen del proyecto grupal. Aplica estilos CSS para darle un diseño atractivo y coherente.
 #Requisito GitHub: Todos los miembros del grupo deben hacer un fork del repositorio del proyecto, clonar la copia en sus máquinas locales, realizar los commits necesarios para documentar el proceso de desarrollo, y subir el proyecto a sus repositorios forkeados. Luego, un miembro debe hacer un pull request al branch correspondiente del grupo en el repositorio original. Documenten el proceso con capturas de pantalla de los comandos (git fork, git clone, git add, git commit, git push, git pull request).
