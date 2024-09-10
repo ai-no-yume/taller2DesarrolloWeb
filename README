@@ -1,4 +1,4 @@
-#Grupo 1: Desarrollar una página web tipo portafolio para un diseñador o desarrollador web.
+#Grupo 3: Desarrollar una página web de blog personal.
 
-Descripción: El grupo debe crear una página web que muestre el portafolio de proyectos de un diseñador o desarrollador web ficticio. Debe incluir una sección de inicio, una galería de proyectos, una breve biografía y una página de contacto.
+Descripción: El grupo debe crear un blog simple utilizando HTML y CSS. El blog debe tener una página principal con los títulos de las entradas y un enlace a las entradas individuales, cada una con su propio diseño.
 #Requisito GitHub: Todos los miembros del grupo deben hacer un fork del repositorio del proyecto, clonar la copia en sus máquinas locales, realizar los commits necesarios para documentar el proceso de desarrollo, y subir el proyecto a sus repositorios forkeados. Luego, un miembro debe hacer un pull request al branch correspondiente del grupo en el repositorio original. Documenten el proceso con capturas de pantalla de los comandos (git fork, git clone, git add, git commit, git push, git pull request).
