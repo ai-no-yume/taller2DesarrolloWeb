@@ -1,5 +1,4 @@
-function HighlightedProducts (prop) {
-    const {picture} = props
+function HighlightedProducts ({picture}) {
 
     return (
         <div className="card">
@@ -7,7 +6,7 @@ function HighlightedProducts (prop) {
         <h2 className="card-title">Banana</h2>
         <p className="card-text">The top 1</p>
       </div>
-    )
+    );
 }
 
 export default HighlightedProducts
