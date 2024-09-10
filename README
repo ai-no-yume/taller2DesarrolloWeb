@@ -1,4 +1,4 @@
-#Grupo 6: Creación de una Página Web de Eventos.
+#Grupo 7: Crear un sitio web para un restaurante.
 
-Descripción: El grupo debe crear una página web que incluya una descripción del evento, la agenda, la ubicación y un formulario de registro.
+Descripción: El grupo debe diseñar una página de inicio que incluya un menú de comida, información del restaurante, una galería de fotos y un formulario de reserva.
 #Requisito GitHub: Todos los miembros del grupo deben hacer un fork del repositorio del proyecto, clonar la copia en sus máquinas locales, realizar los commits necesarios para documentar el proceso de desarrollo, y subir el proyecto a sus repositorios forkeados. Luego, un miembro debe hacer un pull request al branch correspondiente del grupo en el repositorio original. Documenten el proceso con capturas de pantalla de los comandos (git fork, git clone, git add, git commit, git push, git pull request).
