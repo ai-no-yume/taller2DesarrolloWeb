@@ -1,10 +1,13 @@
 import HighlightedProduct1 from './HighlightedProduct1.jsx'
-import picture1 from './assets/banana.jpg'
+import HighlightedProduct2 from './HighlightedProduct2.jsx'
+import HighlightedProduct3 from './HighlightedProduct3.jsx'
 
 function App() {
   return (
     <>
-      <HighlightedProduct1 picture={picture1} />
+      <HighlightedProduct1 />
+      <HighlightedProduct2 />
+      <HighlightedProduct3 />
     </>
   );
 }
