@@ -1,4 +1,4 @@
-#Grupo 4: Crear un sitio web de noticias utilizando HTML y CSS.
+#Grupo 5: Crear la página de inicio de un sitio web de comercio electrónico.
 
-Descripción: El grupo debe desarrollar un sitio web de noticias con una página de inicio que muestre titulares recientes, una página de noticias destacadas, y una sección de categorías.
+Descripción: El grupo debe diseñar una página de inicio que incluya un banner promocional, secciones de productos destacados, y un pie de página con enlaces a términos y condiciones.
 #Requisito GitHub: Todos los miembros del grupo deben hacer un fork del repositorio del proyecto, clonar la copia en sus máquinas locales, realizar los commits necesarios para documentar el proceso de desarrollo, y subir el proyecto a sus repositorios forkeados. Luego, un miembro debe hacer un pull request al branch correspondiente del grupo en el repositorio original. Documenten el proceso con capturas de pantalla de los comandos (git fork, git clone, git add, git commit, git push, git pull request).
